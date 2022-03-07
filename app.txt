@@ -1,3 +1,4 @@
-wersja: 1.0
+wersja: 1.1
 
 Pierwsza linia kodu
+Druga linia kodu
