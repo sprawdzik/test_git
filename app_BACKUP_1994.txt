@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+wersja: 1.3
+
+Pierwsza linia kodu
+Druga linia kodu
+Trzecia linia kodu
+Czwarta linia kodu, hotfix
+=======
+wersja: 1.1.3
+
+Pierwsza linia kodu
+Druga linia kodu
+Trzecia linia kodu, galez_2
+Czwarta lini kodu, galez_2
+Piata lini kodu, galez_2
+>>>>>>> galez_2
