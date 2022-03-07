@@ -1,4 +1,5 @@
-wersja: 1.1
+wersja: 1.1.1
 
 Pierwsza linia kodu
 Druga linia kodu
+Trzecia linia kodu, galez_2
